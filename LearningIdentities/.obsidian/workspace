@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "03ba76da407af97d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45ea27717cce5fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows Kernel.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "487cec8d8446061b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1e838109415851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe6cccd03b14f2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e55a1e25b8426d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62b05a397953416c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1127
+  },
+  "right": {
+    "id": "34892ebc401b3daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7649a78f7f5705e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a6454ef0d66d09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows Kernel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e45ea27717cce5fe",
+  "lastOpenFiles": [
+    "Windows Kernel.md",
+    "Linux Use.md",
+    "Julia.md",
+    "Programming.md",
+    "Web Programming.md",
+    "Math.md",
+    "Group Theory.md",
+    "Chaos Theory.md",
+    "embedded systems.md",
+    "SecureProgramming.md"
+  ]
+}
