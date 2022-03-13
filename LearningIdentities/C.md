@@ -1,0 +1,15 @@
+#programmingLanguage
+# Learn With No Context 
+## Books
+
+## Youtubers
+Casey Muratori, and Molly Rocket
+Jonathan Blow
+
+# Sections
+
+# Learn Other Disciplines From This Context
+## [[C++]]
+## [[Linux Kernel]]
+Robert Love, *Linux Kernel Development*
+## [[embedded systems]]
