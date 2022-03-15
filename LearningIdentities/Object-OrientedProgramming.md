@@ -11,3 +11,4 @@ Eric Freeman & Elisabeth Robson, *Head First Design Patterns*
 # Sections
 
 # Learn Other Disciplines From This Context
+## [[Java]]

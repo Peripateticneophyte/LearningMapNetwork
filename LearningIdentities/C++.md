@@ -13,7 +13,7 @@ Stanley Lippman, Josee Lajoie & Barbara Moo, *C++ Primer*
 # Learn Other Disciplines From This Context
 
 ## [[Object-OrientedProgramming]]
-Download the source to Unreal Engine, and then check out their architecture
+
 
 ## [[ImperativeProgramming]]
 https://he.kendallhunt.com/sites/default/files/heupload/Chen_IntroProgramming_Ch2.pdf
@@ -23,3 +23,8 @@ Ivan Cukic, *Functional Programming in C++: How to improve your C++ programs usi
 
 ## [[ProceduralProgramming]]
 https://content.byui.edu/file/66227afd-b800-4ba3-b6b3-18db4db6c440/1/ProceduralProgramming.pdf
+## [[Vulkan]]
+Pawel Lapinski, *Vulkan Cookbook: Work through recipes to unlock the full potential of the next generation graphics API*
+## [[OpenGL]]
+## [[Computer Graphics]]
+Rendering in a Weekend
